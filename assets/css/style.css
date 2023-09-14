@@ -18,7 +18,7 @@ body{
 
 div#all{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     align-items: center;
     width: 700px;
     min-width: 600px;
